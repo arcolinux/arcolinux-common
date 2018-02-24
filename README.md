@@ -1,5 +1,5 @@
 # Common
-All files to be placed in /lib/archmerge/common/
+All files to be placed in /lib/arcolinux/common/
 
 These are crucial for some of the pipemenus and scripts to work.
 
