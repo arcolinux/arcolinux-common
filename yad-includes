@@ -23,7 +23,7 @@
 # Unset options with 0, eg:
 # yad_common_args+=(--center=0)
 
-yad_common_args=('--window-icon=distributor-logo-archmerge' '--center' '--borders=20')
+yad_common_args=('--window-icon=distributor-logo-arcolinux' '--center' '--borders=20')
 yad_popup_args=('--undecorated' '--fixed' '--on-top')
 
 # Call these functions as shorthand for simple popups etc.
